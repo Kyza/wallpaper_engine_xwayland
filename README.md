@@ -4,6 +4,8 @@ Runs Wallpaper Engine through Proton by using the `-control openWallpaper` featu
 
 This enables features such as audio visualization and better rendering.
 
+![KDE preview](./assets/video.mp4)
+
 ## Requirements
 
 You need to own Wallpaper Engine through Steam and have both installed.
