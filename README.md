@@ -2,7 +2,7 @@
 
 Runs Wallpaper Engine through Proton by using the `-control openWallpaper` feature.
 
-This enables features such as audio visualization.
+This enables features such as audio visualization and better rendering.
 
 ## Requirements
 
