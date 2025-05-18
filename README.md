@@ -4,7 +4,7 @@ Runs Wallpaper Engine through Proton by using the `-control openWallpaper` featu
 
 This enables features such as audio visualization and better rendering.
 
-![KDE preview](./assets/video.mp4)
+https://github.com/user-attachments/assets/3393e593-0b6c-4bed-a204-eacb67d7788d
 
 ## Requirements
 
