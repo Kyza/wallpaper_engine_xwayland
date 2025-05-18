@@ -32,7 +32,7 @@ It's now available as `wex`.
 
 ### Window Rules
 
-In the future the script might set window rules itself, but for now you have to set them yourself.
+In the future this might set window rules itself, but for now you have to set them yourself.
 
 Each one is named `Wallpaper #N` where `N` is the index of the monitor it's meant for (starting at 1).
 
@@ -75,3 +75,9 @@ Be sure to keep your performance settings reasonable.
 It's the same case with missing/incorrect cursors.
 
 If you need to change Wallpaper Engine settings open it through Steam.
+
+### Why is this useful?
+
+The reimplementations of Wallpaper Engine have imperfect rendering and featuresets.
+
+[catsout/wallpaper-engine-kde-plugin](https://github.com/catsout/wallpaper-engine-kde-plugin) was causing KDE to crash loop for me on newer wallpapers so I wrote this.
