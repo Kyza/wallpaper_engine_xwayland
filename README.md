@@ -36,7 +36,7 @@ It's now available as `wex`.
 
 In the future this might set window rules itself, but for now you have to set them yourself.
 
-Each one is named `Wallpaper #N` where `N` is the index of the monitor it's meant for (starting at 1).
+Each one is named `Wallpaper #N` where `N` is the index of the monitor it's meant for (starting at 0).
 
 Set the windows to display behind, not activate, be borderless, skip taskbar, all virtual desktops, etc...
 
