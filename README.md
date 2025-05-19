@@ -62,6 +62,8 @@ There might be a Proton setting to fix this but I couldn't find anything.
 
 Don't worry, it's only invisible when your mouse is over the background.
 
+Sometimes your cursor comes back randomly like magic! I think it's just hiding.
+
 ### The wallpapers are black.
 
 Try 64 instead of 32 or the other way around.
