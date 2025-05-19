@@ -48,7 +48,7 @@ struct Args {
 	/// Architecture: 64 or 32
 	#[arg(short, long)]
 	arch: String,
-	/// Wallpaper IDs
+	/// Wallpaper IDs from ~/.steam/steam/steamapps/workshop/content/431960/
 	#[arg(short, long)]
 	wallpaper_ids: Vec<String>,
 }

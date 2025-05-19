@@ -48,6 +48,12 @@ If your WM doesn't support running commands and only lets you run scripts like K
 
 ### Launching
 
+Specify the Proton folder name, the architecture, and the wallpaper IDs.
+
+Proton folders are stored in `~/.steam/steam/compatibilitytools.d/` and `~/.steam/steam/steamapps/common/`.
+
+Wallpaper IDs are the folder names in `~/.steam/steam/steamapps/workshop/content/431960/`.
+
 ```bash
 wex -p "Proton 10.0" --arch 32 -w 3428443753 -w 2740495762 -w 3480481965
 ```
