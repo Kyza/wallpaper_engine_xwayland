@@ -72,12 +72,6 @@ Unfortunately because `-control openWallpaper` opens them in a separate window t
 
 Be sure to keep your performance settings reasonable.
 
-### Wallpaper Engine UI is black.
-
-It's the same case with missing/incorrect cursors.
-
-If you need to change Wallpaper Engine settings open it through Steam.
-
 ### Why is this useful?
 
 The reimplementations of Wallpaper Engine have imperfect rendering and featuresets.
