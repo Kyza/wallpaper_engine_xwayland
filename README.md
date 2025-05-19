@@ -40,7 +40,7 @@ Each one is named `Wallpaper #N` where `N` is the index of the monitor it's mean
 
 Set the windows to display behind, not activate, be borderless, skip taskbar, all virtual desktops, etc...
 
-On KDE I made one rule matching `class steam_proton` `title substring "Wallpaper #"` for setting the duplicate rules, then one for each `title substring "Wallpaper #N"` to set the monitor they should be on.
+On KDE I made one rule matching `class steam` `title substring "Wallpaper #"` for setting the duplicate rules, then one for each `title substring "Wallpaper #N"` to set the monitor they should be on.
 
 ![KDE window rules](./assets/kde.png)
 
